@@ -12,4 +12,5 @@
                 .addWidthChangeAnimator(ANIMATION_TIME, FROM_WIDTH, FINAL_WIDTH, null);  
 
 ```   
-
+# 效果  
+<img src="https://github.com/xlyasdasd/AnimatorUtils/blob/master/demo.gif" width="800" height="800" alt="效果"/>
